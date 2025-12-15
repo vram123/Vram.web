@@ -89,11 +89,12 @@ function Resume() {
         </div>
 
         <div className="card">
-          <h3>Software Engineering Research Intern — TechNova AI, Los Angeles, CA</h3>
-          <p className="meta">Aug 2024 – Oct 2024</p>
+          <h3>Software Engineering Intern — Amazon / Whole Foods Market – Los Angeles, CA </h3>
+          <p className="meta">October 2024 – February 2025</p>
           <Info>
             <ul>
-              <li>Researched and developed AI-powered personalization features for a fashion e-commerce platform, enhancing user engagement for 2,000+ customers.</li>
+              <li>Built data automation scripts in Python to streamline restocking workflows, reducing manual processing time by ~30%.</li>
+              <li>Enhanced data reliability by writing monitoring scripts that caught and logged 1,000 real-time system anomalies</li>
             </ul>
           </Info>
         </div>
@@ -186,6 +187,21 @@ function Resume() {
               <li>
                 <a href="https://vramblackjack.vercel.app" target="_blank" rel="noreferrer">
                   Play Blackjack
+                </a>
+              </li>
+            </ul>
+          </Info>
+        </div>
+        <div className="card">
+          <h3>Slots Game </h3>
+          <p className="meta">JS, Java | Object-Oriented Programming and React | 2025</p>
+          <Info>
+            <ul>
+              <li>Created a slot machine game, Weighted reel system, rare 7s + diamonds just like the real thing</li>
+              <li>Reel-spin animation + slow “tease” when you are close to hitting triple 7s.</li>
+              <li>
+                <a href="https://slot-machine-react.vercel.app" target="_blank" rel="noreferrer">
+                  Slots
                 </a>
               </li>
             </ul>
